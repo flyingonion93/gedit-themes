@@ -1,8 +1,13 @@
-gedit-themes
+gedit-themes and languages
 ============
 
-Color themes for Gnome's default editor Gedit.
+Color themes for Gnome's default editor Gedit. I also added new languages.
 
-## How to install them
-You can install one theme by importing it in `Preferences` or you can copy each file into `styles` folder, usually located on `/usr/share/gtksourceview-3.0/styles/`. When I say *usually* I mean on my system (Ubuntu 14.04).
-I checked that location using the command `locate oblivion.xml`, which is a default theme in Gedit. It may not work properly.
+## How to install themes
+You can install one theme by importing it in `Preferences` or you can copy each file into `styles` folder, usually located on `/usr/share/gtksourceview-3.0/styles/`.
+
+## How to install languages
+You can install them by copying it to `/usr/share/gtksourceview-3.0/language-specs`.
+
+## Installing on Windows
+Folders are in **Program Files(x86)** and `\share\gtksourceview-2.0\language-specs`.
