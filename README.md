@@ -8,6 +8,9 @@ You can install one theme by importing it in `Preferences` or you can copy each 
 ### How to install languages
 You can install them by copying it to `/usr/share/gtksourceview-3.0/language-specs`.
 
+### How to install snippets
+[How-to](snippets/README.md)
+
 ### Installing on Windows
 Folders are in **Program Files(x86)** and `\share\gtksourceview-2.0\`.
 
